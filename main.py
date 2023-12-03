@@ -46,6 +46,8 @@ def test_bucketing_by_health():
   assert(counts["failed"] == 3)
 
   print("Done counting :)")
+#print the final count 
+  print(counts)
 
 
 if __name__ == '__main__':
