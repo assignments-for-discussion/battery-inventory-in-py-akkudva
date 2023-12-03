@@ -1,4 +1,4 @@
-
+#updated code
 def count_batteries_by_health(present_capacities):
 
 #initialize basic information of variable for number of battries available
